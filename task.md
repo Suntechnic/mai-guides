@@ -29,4 +29,4 @@ description: "Как сформулировать задачу ИИ-агенту
 - Ограничения, которые нельзя нарушать.
 - Без пошаговой инструкции — кроме тех ограничений, что важны сами по себе.
 
-[Подробнее о промптинге](https://www.gptunnel.ru/ru/blog/[REDACTED]prompting)
+[Подробнее о промптинге](https://www.gptunnel.ru/ru/blog/claude-opus-5-5-prompting)
