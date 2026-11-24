@@ -12,7 +12,7 @@ OpenCode — агент для программирования, работаю�
 ### 1. Установка
 
 ```bash
-curl -fsSL [https://opencode.ai/v2/install](https://opencode.ai/v2/install) | bash
+curl -fsSL https://opencode.ai/v2/install | bash
 ```
 
 Другие способы для v2:
